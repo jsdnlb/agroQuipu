@@ -1,6 +1,6 @@
 # AgroQuipu
 
-This project was developed for AgroQuipu, a company dedicated to the personal growth of people around the entire agribusiness industry.
+_This project was developed for AgroQuipu, a company dedicated to the personal growth of people around the entire agribusiness industry._
 
 ## Clone the project 🚀
 
@@ -25,7 +25,7 @@ npm install
 ```
 npm run serve
 ```
-## Landing Page
+## Landing Page 🕶
 ![demo-agroquipu](https://user-images.githubusercontent.com/17171887/126363664-c2f9fbc8-670e-4dff-8e37-feb9ab78f173.png)
 
 ## Built with 🛠️
@@ -35,16 +35,16 @@ _This project was developed with the following tools._
 * [Vue](https://vuejs.org/) - The web framework used
 * [Firebase](https://firebase.google.com/?hl=en) - Hosting and Databases
 
-_Would you like to see the demo? [See Demo here](https://agroquipu-pro.web.app/) _
+_Would you like to see the demo? [See Demo here](https://agroquipu-pro.web.app/)_
 
-* ## Authors ✒️
+## Authors ✒️
 
-_This project was possible thanks to the entire AgroQuipu team and the development area. _
+_This project was possible thanks to the entire AgroQuipu team and the development area._
 
 * **Daniel Buitrago** - *Development and documentation* - [jsdnlb](https://github.com/jsdnlb)
 * **AgroQuipu** - *Development and documentation* 
 
-## Expressions of Gratitude 🎁
+## Recommendations and Acknowledgments 🎁
 
 * Tell others about the project. 📢
 * Invite a beer 🍺 or a coffee ☕ to someone on the team. 
