@@ -2,7 +2,7 @@
 
 _This project was developed for AgroQuipu, a company dedicated to the personal growth of people around the entire agribusiness industry._
 
-## Clone the project 🚀
+## Clone the project 🛸 
 
 _These instructions will allow you to get a copy of the project running on your local machine for development and testing purposes._
 
@@ -20,7 +20,7 @@ _Installing necessary packages_
 npm install
 ```
 
-## Deployment 📦
+## Deployment 🚀
 
 ```
 npm run serve
@@ -33,7 +33,8 @@ npm run serve
 _This project was developed with the following tools._
 
 * [Vue](https://vuejs.org/) - The web framework used
-* [Firebase](https://firebase.google.com/?hl=en) - Hosting and Databases
+* [Vuetify](https://vuejs.org/) - UI Library
+* [Firebase](https://vuetifyjs.com/en/) - Hosting and Databases
 
 _Would you like to see the demo? [See Demo here](https://agroquipu-pro.web.app/)_
 
@@ -50,5 +51,5 @@ _This project was possible thanks to the entire AgroQuipu team and the developme
 * Invite a beer 🍺 or a coffee ☕ to someone on the team. 
 * Thanks for your time!
 
-<p align=center><img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=jsdnlb.space-object-finder" alt="Visitors">  </p>
+<p align=center><img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=jsdnlb.agroQuipu" alt="Visitors">  </p>
 
